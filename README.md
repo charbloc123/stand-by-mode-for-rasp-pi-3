@@ -30,7 +30,7 @@ pip3 install pygame
 bash
 Copy
 Edit
-git clone https://github.com/your-username/standby-dashboard.git
+git clone https://github.com/charbloc123/stand-by-mode-for-rasp-pi-3.git
 cd standby-dashboard
 # 3. Run the Dashboard
 bash
